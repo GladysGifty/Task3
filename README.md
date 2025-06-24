@@ -4,7 +4,7 @@ explore the  great !
 
 *NAME*: S.Gladys Gifty
 
-*INTERN ID* : CT04DG1216
+*INTERN ID* : CT04DG1216 
 
 *DOMAIN*: PYTHON PROGRAMMING
 
@@ -35,4 +35,4 @@ Although this is a basic Chatbot, it demonstrates fundamental concepts that can 
 
 3.Healthcare: Chatbots can provide basic medical information and guide patients towards the right services.
 
-*OUTPUT*
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/7680e697-8316-4fe5-8fe3-3debeb03bc57)
