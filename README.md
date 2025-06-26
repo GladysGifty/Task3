@@ -13,7 +13,7 @@ explore the  great !
 
 *MENTOR* : NEELA SANTHOSH
 
-*DESCRIPTION *: n this assignment, the goal was to build an interactive AI Chatbot using Natural Language Processing (NLP) techniques. The task was aimed at exploring the foundations of natural language understanding and implementing a system that can respond to user queries based on pre-programmed knowledge. This assignment required leveraging a popular NLP library — in this case, NLTK (Natural Language Toolkit) — to tokenize user input and match it against known questions and patterns.
+*DESCRIPTION *: In this assignment, the goal was to build an interactive AI Chatbot using Natural Language Processing (NLP) techniques. The task was aimed at exploring the foundations of natural language understanding and implementing a system that can respond to user queries based on pre-programmed knowledge. This assignment required leveraging a popular NLP library — in this case, NLTK (Natural Language Toolkit) — to tokenize user input and match it against known questions and patterns.
 
 Tools and Technologies Used
 The primary tool used for this assignment was the Python programming language, an ideal choice for working with text data due to its simplicity, extensive libraries, and active developer community. To implement NLP capabilities, the NLTK (Natural Language Toolkit) library was used. NLTK provides built-in methods for text processing, making it suitable for creating basic chatbots and extracting patterns from user inputs.
